@@ -1,5 +1,5 @@
 # Frontend Mentor - QR code component
-(./images/project-review.png)
+![# Frontend Mentor - QR code component](./images/project-review.png)
 
 - Solution for a challenge from(https://www.frontendmentor.io)
 
