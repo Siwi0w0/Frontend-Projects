@@ -7,7 +7,7 @@
 body{
   min-height: 100vh;
   color: hsl(220, 15%, 55%)
-  font-size: 15px;
+  font-size: 1rem;
   font-family: "Outfit", sans-serif;
   display: flex;
   flex-direction: column;
@@ -20,12 +20,8 @@ body{
 }
 
 main{
-  desplay: flex;
-  justify-content: center;
-  align-items: center;
   background-color: white;
   max-width: 320px;
-  height: auto;
   box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.5);
   margin: 2rem;
   padding: 1rem;
